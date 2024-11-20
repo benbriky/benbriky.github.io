@@ -83,7 +83,7 @@ nav a:hover {
 
 /* Début Études */
 .etudes {
-    background-image: url("image/marseillepaysage.jpg");
+    background-image: url("image.marseillepaysage.jpg");
     background-size: cover; /* Ajuste l'image pour couvrir toute la section */
     background-position: center;
     padding: 5% 0;
@@ -160,7 +160,7 @@ nav a:hover {
 
 /* Début Expériences */
 .experiences {
-   background-image: url("image/marseillepaysage.jpg");
+   background-image: url("image.marseillepaysage.jpg");
     background-size: cover; /* Ajuste l'image pour couvrir toute la section */
     background-position: center;
     padding: 5% 0;
